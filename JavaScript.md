@@ -1,5 +1,5 @@
-#  Integrated Exercises
-
+# JavaScript
+ 
 ## Simple Harmonic Motion
 
 ### How to use JavaScript to make the element do simple harmonic motion?
