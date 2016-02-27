@@ -1,6 +1,6 @@
 # JavaScript
 
-## Variables
+## Data Type
 
 ### How many data types in JavaScript?
 
