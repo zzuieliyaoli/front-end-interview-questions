@@ -1,5 +1,19 @@
 # JavaScript
- 
+
+## Variables
+
+### How many data types in JavaScript?
+
+### How to determine the variable type in JavaScript(as many as possible)?
+
+1. List methods.
+2. Compare methods listed above.
+  - Disadvantage
+  - Advantage
+3. ES5、ES2015/ES6
+
+### Why us create so many complex methods?
+
 ## Simple Harmonic Motion
 
 ### How to use JavaScript to make the element do simple harmonic motion?
@@ -49,3 +63,5 @@
   7. Fire event many times in a short time
 
 ### When hit `Keyboard Enter`, change the simple harmonic motion direction?
+
+
