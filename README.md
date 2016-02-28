@@ -5,6 +5,8 @@
 1. Data Type
 2. Simple Harmonic Motion
 
+## Architectures
+
 ## CSS
 
 ## SASS
