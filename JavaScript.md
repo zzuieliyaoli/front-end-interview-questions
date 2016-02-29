@@ -14,6 +14,26 @@
 
 ### Why us create so many complex methods?
 
+## For Loop And Iteration
+
+### Usage of `for of` and `for in`
+
+1. Usages
+2. Difference
+3. `Array` loop methods.
+  - methods.
+  - Difference.
+4. If I use `for in` to get `Object's property`
+  - What's the result?
+  - Why the result contain the properties of `Object.prototype`?
+  - What's `[[Enumerable]]` property?
+  - If I don't need the properties of `Object.prototype`, what should I do?
+
+**Hint**
+
+3. `Array.every`、`Array.filter()`、`Array.forEach()`、  `Array.map()`、`Array.some()`
+
+
 ## Simple Harmonic Motion
 
 ### How to use JavaScript to make the element do simple harmonic motion?
