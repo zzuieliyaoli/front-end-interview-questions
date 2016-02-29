@@ -7,6 +7,8 @@
 
 ## Architectures
 
+## Angular
+
 ## CSS
 
 ## SASS
