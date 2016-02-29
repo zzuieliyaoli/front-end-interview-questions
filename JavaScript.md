@@ -31,6 +31,11 @@
 
 **Hint**
 
+1. Object.hasOwnProperty(propertyName)
+2. Object.keys()
+3. Object.getOwnPropertyNames()
+
+
 3. `Array.every`、`Array.filter()`、`Array.forEach()`、  `Array.map()`、`Array.some()`
 
 
