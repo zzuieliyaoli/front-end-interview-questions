@@ -16,3 +16,11 @@
 ## ES2015
 
 ## Integrated
+
+## Contributing
+
+The repository is released under the MIT license, so anyone is welcome to contribute.
+
+## License
+
+MIT
