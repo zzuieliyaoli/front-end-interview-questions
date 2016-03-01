@@ -5,9 +5,13 @@
 1. Data Type
 2. Simple Harmonic Motion
 3. For Loop And Iteration
+
 ## Architectures
 
 ## Angular
+
+1. Simple Points
+2. Essay Questions
 
 ## CSS
 
