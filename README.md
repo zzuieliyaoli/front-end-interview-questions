@@ -4,7 +4,7 @@
 
 1. Data Type
 2. Simple Harmonic Motion
-
+3. For Loop And Iteration
 ## Architectures
 
 ## Angular
