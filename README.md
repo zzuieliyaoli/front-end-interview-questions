@@ -19,6 +19,9 @@
 
 ## HTML
 
+1. Semantic HTML
+2. Script Tag
+
 ## ES2015
 
 ## Integrated
