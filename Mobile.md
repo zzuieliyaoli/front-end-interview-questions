@@ -2,7 +2,16 @@
 
 ## <meta name="viewport" content="">
 
-## Tab Event
+1. `width = device-width`
+
+## Touch Event
+
+1. How many touch events?
+    - touchstart
+    - touchmove
+    - touchend
+    - touchcancel
+2. When my single-finger touch the mobile screen quickly, which does the event trigger?
 
 ## Scroll Event
 
