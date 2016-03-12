@@ -1,6 +1,6 @@
 # Mobile
 
-## <meta name="viewport" content="">
+## meta name="viewport" content=""
 
 1. `width = device-width`
 

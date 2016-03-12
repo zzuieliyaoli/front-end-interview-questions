@@ -2,11 +2,15 @@
 
 ## JavaScript
 
+[Javascript.md](./Javascript.md)
+
 1. Data Type
 2. Simple Harmonic Motion
 3. For Loop And Iteration
 
 ## Angular
+
+[Angular.md](./Angular.md)
 
 1. Simple Points
 2. Essay Questions
@@ -14,14 +18,18 @@
 
 ## HTML
 
+[HTML.md](./HTML.md)
+
 1. Semantic HTML
 2. Script Tag
 
 ## Mobile
 
+[Mobile.md](./Mobile.md)
+
 1. Viewport
 
-2. Tab Event
+2. Touch Event
 
 3. Scroll Event
 
