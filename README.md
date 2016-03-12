@@ -2,7 +2,7 @@
 
 ## JavaScript
 
-[Javascript.md](./Javascript.md)
+[JavaScript.md](./JavaScript.md)
 
 1. Data Type
 2. Simple Harmonic Motion
