@@ -43,6 +43,12 @@
 
 ## Architectures
 
+- Directory Structure
+- Coding Standards && Lint
+- Code Review Tool
+- Code Management Tool
+- Dev Build Tools
+
 ### Contributing
 
 The repository is released under the MIT license, so anyone is welcome to contribute.
