@@ -45,8 +45,8 @@
 
 - Directory Structure
 - Coding Standards && Lint
-- Code Review Tool
-- Code Management Tool
+- Code Review Tools
+- Code Management Tools
 - Dev Build Tools
 
 ### Contributing
