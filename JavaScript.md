@@ -23,6 +23,7 @@
 1. Selector
   1. `document.getElementById()`and`document.querySelector()`
   2. Difference between selectors above
+  3. [querySelectorAll 方法相比 getElementsBy 系列方法有什么区别？](https://www.zhihu.com/question/24702250)
 2. Window Timer
   1. `window.setTimeout()`and`window.setInterval()`
     1. Difference between window timers above
