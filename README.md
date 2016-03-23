@@ -12,6 +12,7 @@
 
 1. Data Type
 2. For Loop And Iteration
+3. Promise
 
 ## Angular
 

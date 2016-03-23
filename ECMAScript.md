@@ -1,3 +1,5 @@
+# ECMAScript
+
 ## Data Type
 
 ### How many data types in JavaScript?
@@ -35,3 +37,32 @@
 
 
 3. `Array.every`、`Array.filter()`、`Array.forEach()`、  `Array.map()`、`Array.some()`
+
+## Promise
+
+### Promise.race、Promise.all
+
+```JavaScript
+'use strict';
+
+var run = delay => {
+    return new Promise(function (resolve) {
+        setTimeout(function () {
+            resolve(delay);
+        }, delay);
+    });
+}
+```
+What't the difference between these code below
+
+```JavaScript
+Promise.race([run(1), run(10), run(1500)]).then(function (delay) {
+    console.log(delay);
+});
+```
+
+```JavaScript
+Promise.all([run(1), run(10), run(1500)]).then(function (delay) {
+    console.log(delay);
+});
+```
