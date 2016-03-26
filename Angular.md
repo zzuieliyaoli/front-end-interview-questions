@@ -15,3 +15,5 @@
 2. Difference `link` method and `controller` method.
 3. How can I add event handler on directive?
 4. syntax `bindToController`
+
+## `$emit` `$broadcast`
