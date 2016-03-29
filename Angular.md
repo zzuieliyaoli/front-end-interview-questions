@@ -14,6 +14,7 @@
 1. How does an directive initialize?
 2. Difference `link` method and `controller` method.
 3. How can I add event handler on directive?
-4. syntax `bindToController`
+4. Property `bindToController`.
+5. Property `scope`.Difference between `@` `=` `&`.
 
 ## `$emit` `$broadcast`
