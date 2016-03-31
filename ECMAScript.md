@@ -14,6 +14,10 @@
 
 ### Why us create so many complex methods?
 
+### How to know two arrays are equal?
+
+### Why `string` has methods?
+
 ## For Loop And Iteration
 
 ### Usage of `for of` and `for in`
