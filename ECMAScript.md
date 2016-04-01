@@ -16,7 +16,7 @@
 
 ### How to know two arrays are equal?
 
-### Why `string` has methods?
+### Why `string` have methods?
 
 ## For Loop And Iteration
 
