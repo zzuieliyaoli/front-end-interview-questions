@@ -70,3 +70,5 @@ Promise.all([run(1), run(10), run(1500)]).then(function (delay) {
     console.log(delay);
 });
 ```
+
+## Fetch
