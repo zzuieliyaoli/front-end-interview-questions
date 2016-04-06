@@ -72,3 +72,18 @@ Promise.all([run(1), run(10), run(1500)]).then(function (delay) {
 ```
 
 ## Fetch
+
+
+## Prototype
+
+### __proto
+
+## Object.create()
+
+```JavaScript
+function create(obj) {
+    var f = function(){};
+    f.prototype = obj;
+    return new f()
+}
+```
