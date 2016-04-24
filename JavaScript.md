@@ -50,3 +50,8 @@
   7. Fire event many times in a short time
 
 ### When hit `Keyboard Enter`, change the simple harmonic motion direction?
+
+## Custom Events
+
+1. `new CustomEvent()`
+2. `Redux`...
