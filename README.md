@@ -28,6 +28,7 @@
 
 1. Semantic HTML
 2. Script Tag
+3. Head
 
 ## Mobile
 
