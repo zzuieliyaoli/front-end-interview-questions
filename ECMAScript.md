@@ -39,8 +39,17 @@
 2. Object.keys()
 3. Object.getOwnPropertyNames()
 
-
 3. `Array.every`、`Array.filter()`、`Array.forEach()`、  `Array.map()`、`Array.some()`
+
+## Variable Definition
+
+### Let
+
+### Const
+
+> The const declaration creates a read-only reference to a value. It does not mean the value it holds is immutable, just that the variable identifier cannot be reassigned.
+
+### Var
 
 ## Promise
 
@@ -71,8 +80,9 @@ Promise.all([run(1), run(10), run(1500)]).then(function (delay) {
 });
 ```
 
-## Fetch
+## Arrow Function
 
+## Fetch
 
 ## Prototype
 
